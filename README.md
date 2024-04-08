@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is UBRO32BIT and I'm a back-end developer.</h2>
+I am Minh Duc, a software engineer.
 
 ## 📈 GitHub Stats 
 
